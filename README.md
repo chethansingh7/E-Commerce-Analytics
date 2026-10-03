@@ -165,6 +165,21 @@ An extreme bulk transaction involving **PAPER CRAFT, LITTLE BIRDIE** generated Â
 
 ---
 
+## Business Recommendations
+
+The analysis was translated into actionable business recommendations, including:
+
+* **Customer retention:** Strengthen repeat purchasing and focus on valuable customers showing declining engagement.
+* **Customer reactivation:** Target High-Value At Risk customers with focused re-engagement initiatives.
+* **Cancellation reduction:** Investigate the products, customers, markets, and order patterns associated with cancellations.
+* **Market diversification:** Explore opportunities to grow international markets while maintaining the UK customer base.
+* **Customer data quality:** Improve customer identification to increase the value of customer-level analysis.
+* **Seasonal planning:** Use historical demand patterns to support inventory, fulfillment, and operational planning.
+
+See [`findings.md`](findings.md) for the supporting analysis, evidence, and detailed recommendations.
+
+---
+
 ## Dashboard Preview
 
 ### Executive Overview
