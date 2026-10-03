@@ -8,7 +8,7 @@ The project uses the **UCI Online Retail dataset**, containing transaction-level
 
 The analysis follows a practical business analytics workflow:
 
-**Raw Transaction Data → Data Quality Checks → SQL Analysis → Business Findings → Power BI Dashboard**
+**Raw Transaction Data → Data Quality Checks → SQL Analysis → Business Findings → Power BI Dashboard → Business Recommendation**
 
 ---
 
