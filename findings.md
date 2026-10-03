@@ -104,3 +104,57 @@ The largest cancellation was invoice C581484:
 - Several StockCodes represent administrative or non-merchandise transactions, including postage, manual adjustments, fees and charges.
 - StockCode 22197 appears with more than one product description.
 - Some extreme bulk transactions have a large effect on individual product/order metrics and should be documented rather than automatically removed.
+## 10. Business Recommendations
+
+### 1. Strengthen Customer Retention and Repeat Purchasing
+
+**Evidence:** Repeat customers generated £8.30M, representing 93.08% of identified-customer sales.
+
+**Recommendation:** Prioritize retention and repeat-purchase initiatives, with particular attention to valuable customers showing declining engagement.
+
+**What to monitor:** Repeat purchase rate, customer revenue, reactivation rate, and revenue from retained customers.
+
+### 2. Re-engage High-Value Customers at Risk
+
+**Evidence:** 603 customers were classified as High-Value At Risk, contributing £1.16M in sales.
+
+**Recommendation:** Develop targeted reactivation campaigns based on customers' previous purchase behavior and recency.
+
+**What to monitor:** Reactivation rate, recovered revenue, and subsequent repeat purchases.
+
+### 3. Investigate Cancellation Drivers
+
+**Evidence:** Cancellation value was £896.8K, equivalent to 8.41% of SalesRevenue.
+
+**Recommendation:** Investigate cancellation patterns by product, customer, country, order size, and time period to identify the underlying operational or product-related causes.
+
+**What to monitor:** Cancellation value rate, cancelled units, cancellation frequency, and cancellation rate by product.
+
+### 4. Reduce Dependence on the UK Market
+
+**Evidence:** The United Kingdom generated 84.61% of total SalesRevenue.
+
+**Recommendation:** Evaluate opportunities to grow existing international markets while maintaining the existing UK customer base.
+
+**What to monitor:** Non-UK revenue share, international customer growth, and revenue by country.
+
+### 5. Improve Customer Identification
+
+**Evidence:** £1.76M of SalesRevenue was associated with orders without an identified CustomerID.
+
+**Recommendation:** Investigate where customer identification is being lost and improve customer-data capture so more transactions can be connected to individual customers.
+
+**What to monitor:** Percentage of orders and SalesRevenue linked to identifiable customers.
+
+### 6. Prepare for Seasonal Demand
+
+**Evidence:** November 2011 generated £1.51M, the highest full-month SalesRevenue in the dataset.
+
+**Recommendation:** Use historical sales patterns to plan inventory, staffing, fulfillment capacity, and promotional activity ahead of high-demand periods.
+
+**What to monitor:** Sales, order volume, inventory availability, fulfillment performance, and cancellation rates during peak periods.
+
+### Important Analytical Consideration
+
+These recommendations are based on patterns observed in the available dataset. They should be validated against operational information such as inventory availability, marketing activity, pricing, customer acquisition costs, cancellation reasons, and fulfillment data before major business decisions are made.
+
