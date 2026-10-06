@@ -215,9 +215,6 @@ Online-Retail-Analytics/
 ├── README.md
 ├── findings.md
 │
-├── data/
-│   └── README.md
-│
 ├── sql/
 │   ├── 01_data_quality.sql
 │   ├── 02_sales_analysis.sql
