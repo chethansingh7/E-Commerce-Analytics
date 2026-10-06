@@ -1,5 +1,4 @@
-# E-Commerce Analytics
-
+# Online Retail Analytics
 ## Project Overview
 
 An end-to-end e-commerce analytics project using **SQL and Power BI** to analyze sales performance, customer behavior, product performance, order patterns, cancellations, and customer segmentation.
