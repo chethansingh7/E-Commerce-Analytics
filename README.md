@@ -1,4 +1,4 @@
-# Online Retail Analytics
+# E-Commerce Analytics
 
 ## Project Overview
 
